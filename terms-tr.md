@@ -42,6 +42,8 @@ Paylaştığın fotoğraflardan, kullanıcı adından ve diğer içeriklerden se
 
 Otokart, kurallara ya da hukuka aykırı olduğunu değerlendirdiği içerikleri önceden bildirimde bulunmadan kaldırabilir. Otomatik denetim ve bulanıklaştırma elden geldiğince dikkatle yapılır, ancak her durumda hatasız çalışacağı garanti edilemez; paylaşmadan önce fotoğrafını kontrol etmek senin sorumluluğundadır.
 
+Hukuka aykırı olduğunu ya da kişilik haklarını ihlal ettiğini düşündüğün bir içeriği uygulamadaki şikâyet menüsünden ya da [İLETİŞİM E-POSTASI] adresine yazarak bildirebilirsin. Bildirimler en geç 24 saat içinde incelenir ve hukuka aykırı içerik yayından kaldırılır.
+
 ## 6. Bilgilerin doğruluğu
 
 Araç tanıma sonuçları ile kartlarda gösterilen teknik değerler, üretim adetleri, nadirlik ve puanlar yapay zekâ tahminlerine ve genel kaynaklara dayanır; hatalı ya da eksik olabilir. Bu bilgiler bilgilendirme ve oyun amaçlıdır; herhangi bir karar (alım satım, değerleme, sigorta vb.) için dayanak olarak kullanılmamalıdır.
@@ -60,7 +62,7 @@ Uygulamayı ya da sunucuları tersine mühendislik, otomatik veri toplama, aşı
 
 ## 10. Askıya alma ve sona erme
 
-Bu koşulları ya da Topluluk Kuralları'nı ihlal edersen içeriklerin kaldırılabilir, topluluk özelliklerine erişimin kısıtlanabilir ya da hesabın önceden bildirimde bulunulmadan askıya alınabilir veya kapatılabilir. Sen de hesabını istediğin an uygulama içinden silebilirsin.
+Bu koşulları ya da Topluluk Kuralları'nı ihlal edersen içeriklerin kaldırılabilir, topluluk özelliklerine ve tanımaya erişimin kısıtlanabilir ya da hesabın önceden bildirimde bulunulmadan askıya alınabilir veya kapatılabilir. Askıya alınan hesabın kullanıcı adı gizlenir ve fotoğrafları yayından kaldırılır. Bu karara [İLETİŞİM E-POSTASI] adresine yazarak itiraz edebilirsin. Sen de hesabını istediğin an uygulama içinden silebilirsin.
 
 ## 11. Garanti ve sorumluluk
 

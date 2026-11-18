@@ -25,3 +25,7 @@ title: Otokart — Yasal Belgeler / Legal
 📧 [İLETİŞİM E-POSTASI]
 
 Veri sorumlusu / Data controller: Mehmet Tuğberk Özsoy
+
+---
+
+Bu site çerez kullanmaz ve ziyaretçi verisi toplamaz; GitHub Pages tarafından barındırılır. / This site uses no cookies and collects no visitor data; it is hosted by GitHub Pages.

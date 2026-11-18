@@ -44,6 +44,8 @@ You retain the rights to your content. By sharing, you grant Otokart a worldwide
 
 Otokart may remove content it considers to violate the rules or the law without prior notice. Automated checks and blurring are performed with care but cannot be guaranteed to work without error in every case; checking your photo before sharing is your responsibility.
 
+You can report content you believe is unlawful or violates personal rights through the report menu in the app or by writing to [İLETİŞİM E-POSTASI]. Reports are reviewed within 24 hours and unlawful content is removed.
+
 ## 6. Accuracy of information
 
 Recognition results and the technical values, production numbers, rarity and points shown on cards are based on AI estimates and general sources and may be inaccurate or incomplete. This information is for information and game purposes and must not be relied on for any decision (trading, valuation, insurance, etc.).
@@ -62,7 +64,7 @@ You may not reverse engineer, scrape, overload, circumvent security measures of,
 
 ## 10. Suspension and termination
 
-If you violate these terms or the Community Rules, your content may be removed, your access to community features may be restricted, or your account may be suspended or closed without prior notice. You can delete your account at any time from within the app.
+If you violate these terms or the Community Rules, your content may be removed, your access to community features and recognition may be restricted, or your account may be suspended or closed without prior notice. A suspended account's username is hidden and its photos are removed from publication. You can object to this decision by writing to [İLETİŞİM E-POSTASI]. You can delete your account at any time from within the app.
 
 ## 11. Warranty and liability
 

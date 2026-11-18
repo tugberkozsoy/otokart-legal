@@ -34,7 +34,7 @@ Profil fotoğrafı: profil fotoğrafı eklersen fotoğraf, uygunsuz içerik dene
 
 Topluluk etkileşimleri: arkadaşlık istekleri ve arkadaş listen, engellediğin kullanıcılar, yaptığın şikâyetler ve hakkındaki şikâyetler.
 
-Güvenlik kayıtları: tanıma ve paylaşım isteklerinin zamanı, sonucu ve işlem miktarı; günlük sınırları uygulamak ve kötüye kullanımı önlemek için tutulur. Sunucu altyapısı, bağlantı sırasında IP adresi gibi teknik kayıtları sınırlı süre tutabilir.
+Güvenlik ve trafik kayıtları: tanıma ve paylaşım isteklerinin zamanı, sonucu ve işlem miktarı, günlük sınırları uygulamak ve kötüye kullanımı önlemek için tutulur. Fotoğraf ve profil fotoğrafı paylaşımlarında, 5651 sayılı Kanun kapsamındaki yükümlülükler için paylaşımın zamanı, hesap kimliği ve IP adresi kaydedilir. Sunucu altyapısı, bağlantı sırasında IP adresi gibi teknik kayıtları sınırlı süre tutabilir.
 
 Otokart özel nitelikli kişisel veri (sağlık, biyometrik veri vb.) toplamaz. Fotoğraflardaki yüzler tanınmaz, eşleştirilmez; yalnızca bulanıklaştırılmak için bulunur.
 
@@ -50,7 +50,7 @@ Fotoğraftaki aracı tanımak ve kartını oluşturmak; puan, sıralama, arkada�
 
 Veriler, uygulamayı kullanırken senin girdiğin bilgilerden ve çektiğin fotoğraflardan elektronik ortamda, otomatik yollarla toplanır.
 
-Veriler; KVKK m. 5/2-c uyarınca uygulamanın sunulması için (sözleşmenin kurulması ve ifası), m. 5/2-f uyarınca güvenlik, hile ve kötüye kullanımın önlenmesi için (meşru menfaat), m. 5/2-ç uyarınca yasal yükümlülüklerin yerine getirilmesi ve m. 5/2-e uyarınca bir hakkın tesisi, kullanılması ya da korunması için işlenir.
+Veriler; KVKK m. 5/2-c uyarınca uygulamanın sunulması için (sözleşmenin kurulması ve ifası), m. 5/2-f uyarınca güvenlik, hile ve kötüye kullanımın önlenmesi için (meşru menfaat), m. 5/2-ç uyarınca yasal yükümlülüklerin (5651 sayılı Kanun kapsamındaki trafik bilgisi saklama dahil) yerine getirilmesi ve m. 5/2-e uyarınca bir hakkın tesisi, kullanılması ya da korunması için işlenir.
 
 Fotoğraf paylaşımı ve profil fotoğrafı senin tercihine bağlıdır: fotoğraf paylaşımını Profil > Ayarlar > Fotoğraflarımı kim görsün bölümünden istediğin an kapatabilir, profil fotoğrafını kaldırabilirsin.
 
@@ -78,11 +78,13 @@ Kişisel verilerin satılmaz; reklam, profilleme ya da uygulamalar arası takip 
 
 Verilerin hesabın açık olduğu sürece saklanır. Profil > Ayarlar > Hesabımı sil ile hesabını sildiğinde profilin, sunucudaki kart kayıtların, paylaştığın fotoğraflar, profil fotoğrafın, arkadaşlıkların ve hesabına bağlı kayıtlar kalıcı olarak silinir ve Otokart'ın Apple ile giriş yetkisi Apple'da iptal edilir. Paylaşımı kapattığında sunucudaki fotoğrafların silinir.
 
+Saklama süreleri: tanıma güvenlik kayıtları 90 gün; günlük kota sayaçları ve tanıma adayları 30 gün; şikâyet kayıtları 1 yıl; paylaşımlara ait trafik bilgileri (zaman, hesap kimliği, IP adresi) 5651 sayılı Kanun gereği 1 yıl saklanır ve en geç 13 ay sonra otomatik olarak silinir. Trafik bilgileri bu yasal yükümlülük nedeniyle hesabın silinmesinden sonra da bu süre boyunca saklanır.
+
 Yasal bir yükümlülük ya da devam eden bir uyuşmazlık gerektirirse ilgili kayıtlar yalnızca bu süre boyunca saklanabilir.
 
 ## 9. Güvenlik
 
-Veriler şifreli bağlantı (HTTPS) üzerinden iletilir; sunucuya erişim yetkilendirme kurallarıyla sınırlandırılır ve kullanıcılar yalnızca kendilerine ait verileri değiştirebilir. Buna rağmen internet üzerinden yapılan hiçbir iletimin tamamen güvenli olduğu garanti edilemez. Bir veri ihlali olursa KVKK uyarınca Kişisel Verileri Koruma Kurulu'na ve etkilenen kişilere bildirim yapılır.
+Veriler şifreli bağlantı (HTTPS) üzerinden iletilir; sunucuya erişim yetkilendirme kurallarıyla sınırlandırılır ve kullanıcılar yalnızca kendilerine ait verileri değiştirebilir. Paylaşılan fotoğraflar tahmin edilemeyen bağlantılarla sunulur; bu bağlantıya sahip olan biri fotoğrafı görebilir. Fotoğraf paylaşımını kapattığında sunucudaki fotoğrafların silinir. Buna rağmen internet üzerinden yapılan hiçbir iletimin tamamen güvenli olduğu garanti edilemez. Bir veri ihlali olursa KVKK uyarınca Kişisel Verileri Koruma Kurulu'na ve etkilenen kişilere bildirim yapılır.
 
 ## 10. Yaş sınırı
 

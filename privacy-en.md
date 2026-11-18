@@ -36,7 +36,7 @@ Profile photo: if you add a profile photo, it is stored on the server and shown 
 
 Community interactions: friend requests and your friends list, users you block, reports you make and reports about you.
 
-Security records: the time, result and volume of recognition and sharing requests, kept to enforce daily limits and prevent abuse. The server infrastructure may keep technical connection logs such as IP addresses for a limited time.
+Security and traffic records: the time, result and volume of recognition and sharing requests are kept to enforce daily limits and prevent abuse. For photo and profile photo shares, the time of sharing, account identifier and IP address are recorded to meet obligations under Turkish Law No. 5651. The server infrastructure may keep technical connection logs such as IP addresses for a limited time.
 
 Otokart does not collect special categories of personal data (health, biometric data, etc.). Faces in photos are not recognized or matched; they are only detected in order to be blurred.
 
@@ -52,7 +52,7 @@ Recognizing the vehicle in a photo and creating its card; providing community fe
 
 Data is collected electronically and automatically from the information you enter and the photos you take while using the app.
 
-Data is processed under KVKK Art. 5/2-c to provide the app (formation and performance of a contract), Art. 5/2-f for security and preventing cheating and abuse (legitimate interest), Art. 5/2-ç to comply with legal obligations, and Art. 5/2-e to establish, exercise or defend a right.
+Data is processed under KVKK Art. 5/2-c to provide the app (formation and performance of a contract), Art. 5/2-f for security and preventing cheating and abuse (legitimate interest), Art. 5/2-ç to comply with legal obligations (including retention of traffic information under Law No. 5651), and Art. 5/2-e to establish, exercise or defend a right.
 
 Photo sharing and profile photos are your choice: you can turn photo sharing off at any time under Profile > Settings > Who can see my photos, and remove your profile photo.
 
@@ -80,11 +80,13 @@ Your personal data is not sold and is not used for advertising, profiling or cro
 
 Your data is kept while your account is open. When you delete your account under Profile > Settings > Delete my account, your profile, card records on the server, shared photos, profile photo, friendships and records linked to your account are permanently deleted, and Otokart's Sign in with Apple authorization is revoked at Apple. When you turn sharing off, your photos on the server are deleted.
 
+Retention periods: recognition security records 90 days; daily quota counters and recognition candidates 30 days; reports 1 year; traffic information for shares (time, account identifier, IP address) is kept for 1 year as required by Law No. 5651 and deleted automatically after 13 months at the latest. Because of this legal obligation, traffic information is kept for this period even after the account is deleted.
+
 Where a legal obligation or an ongoing dispute requires it, the relevant records may be kept only for that period.
 
 ## 9. Security
 
-Data is transmitted over encrypted connections (HTTPS); server access is restricted by authorization rules and users can only modify their own data. Nevertheless, no transmission over the internet can be guaranteed to be completely secure. In the event of a data breach, the Turkish Personal Data Protection Board and affected individuals will be notified as required by KVKK.
+Data is transmitted over encrypted connections (HTTPS); server access is restricted by authorization rules and users can only modify their own data. Shared photos are served through unguessable links; anyone who has such a link can view the photo. When you turn photo sharing off, your photos on the server are deleted. Nevertheless, no transmission over the internet can be guaranteed to be completely secure. In the event of a data breach, the Turkish Personal Data Protection Board and affected individuals will be notified as required by KVKK.
 
 ## 10. Age limit
 
