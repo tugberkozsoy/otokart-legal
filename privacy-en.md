@@ -36,6 +36,8 @@ Profile photo: if you add a profile photo, it is stored on the server and shown 
 
 Community interactions: the people you follow and who follow you, your likes, the comments and card captions you write, in-app notifications generated from these interactions, users you block, reports you make and reports about you. The app has no private messaging between users; all interactions take place in public, moderated areas.
 
+Push notifications: if you allowed notifications and joined the community, the notification token Apple issues for this app and device, used only to notify your phone about events concerning you (new followers, likes, comments). Notifications do not include the text of comments. You can turn notification types off under Profile > Settings > Notifications.
+
 Security and traffic records: the time, result and volume of recognition and sharing requests are kept to enforce daily limits and prevent abuse. For photo and profile photo shares, the time of sharing, account identifier and IP address are recorded to meet obligations under Turkish Law No. 5651. The server infrastructure may keep technical connection logs such as IP addresses for a limited time.
 
 Otokart does not collect special categories of personal data (health, biometric data, etc.). Faces in photos are not recognized or matched; they are only detected in order to be blurred.
@@ -66,7 +68,7 @@ Supabase: database, authentication and file storage infrastructure. Servers are 
 
 Anthropic: AI vehicle recognition and checks on photos, comments and card captions to be published. The service is provided in the United States. Only blurred photos and the text being checked (with the card's make/model) are sent to this service; your username and Apple identifier are not.
 
-Apple: Sign in with Apple.
+Apple: Sign in with Apple and delivery of push notifications (Apple Push Notification service).
 
 Transfers abroad are made in accordance with the conditions of KVKK Art. 9.
 
@@ -80,7 +82,7 @@ Your personal data is not sold and is not used for advertising, profiling or cro
 
 Your data is kept while your account is open. When you delete your account under Profile > Settings > Delete my account, your profile, card records on the server, shared photos, profile photo, friendships and records linked to your account are permanently deleted, and Otokart's Sign in with Apple authorization is revoked at Apple. When you turn sharing off, your photos on the server are deleted.
 
-Retention periods: recognition security records 90 days; in-app notifications 90 days; daily quota counters and recognition candidates 30 days; reports 1 year; comments, likes, follows and card captions until you delete them or delete your account. Traffic information for shares (photos, profile photos, comments and captions: time, account identifier, IP address; not the text itself) is kept for 1 year as required by Law No. 5651 and deleted automatically after 13 months at the latest. Because of this legal obligation, traffic information is kept for this period even after the account is deleted.
+Retention periods: recognition security records 90 days; in-app notifications 90 days; daily quota counters and recognition candidates 30 days; reports 1 year; comments, likes, follows and card captions until you delete them or delete your account; the notification token until you sign out or delete your account (automatically when Apple reports the app was removed). Traffic information for shares (photos, profile photos, comments and captions: time, account identifier, IP address; not the text itself) is kept for 1 year as required by Law No. 5651 and deleted automatically after 13 months at the latest. Because of this legal obligation, traffic information is kept for this period even after the account is deleted.
 
 Where a legal obligation or an ongoing dispute requires it, the relevant records may be kept only for that period.
 
