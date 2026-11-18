@@ -34,7 +34,7 @@ Shared photos: the photo of cards you captured with the camera and that were ver
 
 Profile photo: if you add a profile photo, it is stored on the server and shown to other users after passing an inappropriate-content check.
 
-Community interactions: friend requests and your friends list, users you block, reports you make and reports about you.
+Community interactions: the people you follow and who follow you, your likes, the comments and card captions you write, in-app notifications generated from these interactions, users you block, reports you make and reports about you. The app has no private messaging between users; all interactions take place in public, moderated areas.
 
 Security and traffic records: the time, result and volume of recognition and sharing requests are kept to enforce daily limits and prevent abuse. For photo and profile photo shares, the time of sharing, account identifier and IP address are recorded to meet obligations under Turkish Law No. 5651. The server infrastructure may keep technical connection logs such as IP addresses for a limited time.
 
@@ -58,19 +58,19 @@ Photo sharing and profile photos are your choice: you can turn photo sharing off
 
 ## 6. Automated checks
 
-Photos to be shared and profile photos are checked automatically with AI; a photo that does not pass is not published. These checks can make mistakes. If you believe a photo was rejected unfairly, you can object by writing to [İLETİŞİM E-POSTASI]; your objection will be reviewed by a person.
+Photos to be shared, profile photos, comments and card captions are checked automatically with AI; comments and captions also pass a word filter. Content that does not pass is not published. These checks can make mistakes. If you believe your content was rejected unfairly, you can object by writing to [İLETİŞİM E-POSTASI]; your objection will be reviewed by a person.
 
 ## 7. Who we share data with
 
 Supabase: database, authentication and file storage infrastructure. Servers are located in Germany (Frankfurt, European Union).
 
-Anthropic: AI vehicle recognition and checks on photos to be shared. The service is provided in the United States. Only blurred photos are sent to this service; your username and Apple identifier are not.
+Anthropic: AI vehicle recognition and checks on photos, comments and card captions to be published. The service is provided in the United States. Only blurred photos and the text being checked (with the card's make/model) are sent to this service; your username and Apple identifier are not.
 
 Apple: Sign in with Apple.
 
 Transfers abroad are made in accordance with the conditions of KVKK Art. 9.
 
-Other users: your username, province, avatar, points, cards (excluding location), showcase and, according to your photo setting, your shared photos are visible in the app.
+Other users: your username, province, avatar, points, follower and following counts, cards (excluding location), showcase, card captions, comments, like counts on your cards and, according to your photo setting, your shared photos are visible in the app. Only you can see your follower and following lists.
 
 Competent authorities: only when legally required and only to the extent necessary.
 
@@ -80,7 +80,7 @@ Your personal data is not sold and is not used for advertising, profiling or cro
 
 Your data is kept while your account is open. When you delete your account under Profile > Settings > Delete my account, your profile, card records on the server, shared photos, profile photo, friendships and records linked to your account are permanently deleted, and Otokart's Sign in with Apple authorization is revoked at Apple. When you turn sharing off, your photos on the server are deleted.
 
-Retention periods: recognition security records 90 days; daily quota counters and recognition candidates 30 days; reports 1 year; traffic information for shares (time, account identifier, IP address) is kept for 1 year as required by Law No. 5651 and deleted automatically after 13 months at the latest. Because of this legal obligation, traffic information is kept for this period even after the account is deleted.
+Retention periods: recognition security records 90 days; in-app notifications 90 days; daily quota counters and recognition candidates 30 days; reports 1 year; comments, likes, follows and card captions until you delete them or delete your account. Traffic information for shares (photos, profile photos, comments and captions: time, account identifier, IP address; not the text itself) is kept for 1 year as required by Law No. 5651 and deleted automatically after 13 months at the latest. Because of this legal obligation, traffic information is kept for this period even after the account is deleted.
 
 Where a legal obligation or an ongoing dispute requires it, the relevant records may be kept only for that period.
 

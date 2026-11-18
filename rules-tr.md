@@ -28,11 +28,19 @@ Plakalar ve yüzler otomatik olarak bulanıklaştırılır; okunabilir plaka ya 
 
 Başkalarının kişisel bilgileri (plaka, yüz, telefon numarası, adres); reklam, spam ve başka hesaplara yönlendirme; başka bir kişiyi ya da markayı taklit etmek; puan ya da sıralamada hile yapmak; araç kullanırken ya da tehlikeli durumlarda çekilmiş fotoğraflar.
 
-## 4. Uygunsuz içeriğe tolerans yok
+## 4. Yorumlar, beğeniler ve takip
+
+Yorumlar ve kart açıklamaları herkese açıktır ve yayınlanmadan önce otomatik olarak denetlenir. Arabalar hakkında görüş, eleştiri ve şaka serbesttir; kişilere hakaret, alay, taciz, tehdit ve ısrarlı rahatsız etme yasaktır.
+
+Reklam, satış, bağlantı paylaşma, başka uygulamaya ya da hesaba yönlendirme ve 'takip edene takip', toplu beğeni gibi etkileşim spam'i yasaktır.
+
+Kartın sahibi kendi kartındaki yorumları silebilir ve yorumları kapatabilir. Üç farklı kişinin şikâyet ettiği yorum inceleme beklenmeden gizlenir. Uygulamada özel mesajlaşma yoktur; kimseden kişisel bilgi isteme.
+
+## 5. Uygunsuz içeriğe tolerans yok
 
 Paylaşılan her fotoğraf yayınlanmadan önce otomatik olarak denetlenir. Kurallara aykırı içerik kaldırılır; kuralları ihlal eden kullanıcıların hesapları uyarı yapılmadan askıya alınabilir ya da kapatılabilir.
 
-## 5. Şikâyet ve engelleme
+## 6. Şikâyet ve engelleme
 
 Uygunsuz bir fotoğraf ya da kullanıcı gördüğünde fotoğrafın ya da profilin ••• menüsünden şikâyet et. Şikâyetler en geç 24 saat içinde incelenir; birden fazla kişinin şikâyet ettiği fotoğraflar inceleme beklenmeden gizlenir.
 
@@ -40,11 +48,11 @@ Bir kullanıcıyı aynı menüden engelleyebilirsin: birbirinizin profilini ve f
 
 Fotoğrafın haksız yere reddedildiyse ya da kaldırıldıysa [İLETİŞİM E-POSTASI] adresine yazarak itiraz edebilirsin.
 
-## 6. Fotoğrafların
+## 7. Fotoğrafların
 
 Paylaştığın fotoğrafların hakları sende kalır. Paylaşarak Otokart'a bu fotoğrafları uygulama içinde, fotoğraf ayarına göre diğer kullanıcılara gösterme izni verirsin. Paylaşımı kapattığında ya da hesabını sildiğinde fotoğrafların sunucudan silinir.
 
-## 7. Yaş ve iletişim
+## 8. Yaş ve iletişim
 
 Otokart'ı kullanmak için en az 13 yaşında olmalısın.
 

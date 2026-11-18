@@ -36,7 +36,7 @@ Topluluk özellikleri için Apple ile giriş yaparsın. Hesabın kişiseldir; ba
 
 ## 5. Paylaştığın içerik
 
-Paylaştığın fotoğraflardan, kullanıcı adından ve diğer içeriklerden sen sorumlusun. Yalnızca kendi çektiğin ve paylaşma hakkına sahip olduğun içerikleri paylaşabilirsin.
+Paylaştığın fotoğraflardan, yorumlardan, kart açıklamalarından, kullanıcı adından ve diğer içeriklerden sen sorumlusun. Yalnızca kendi çektiğin ve paylaşma hakkına sahip olduğun içerikleri paylaşabilirsin. Yorumlar ve açıklamalar herkese açıktır.
 
 İçeriklerinin hakları sende kalır. Paylaşarak Otokart'a bu içerikleri uygulama içinde, fotoğraf ayarına göre diğer kullanıcılara göstermek, bu amaçla saklamak, boyutlandırmak ve teknik olarak işlemek için dünya çapında, ücretsiz, münhasır olmayan bir izin verirsin. Bu izin, içeriği sildiğinde, paylaşımı kapattığında ya da hesabını sildiğinde sona erer.
 

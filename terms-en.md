@@ -38,7 +38,7 @@ You sign in with Apple for community features. Your account is personal; you may
 
 ## 5. Your content
 
-You are responsible for the photos, username and other content you share. You may share only content you captured yourself and have the right to share.
+You are responsible for the photos, comments, card captions, username and other content you share. You may share only content you captured yourself and have the right to share. Comments and captions are public.
 
 You retain the rights to your content. By sharing, you grant Otokart a worldwide, royalty-free, non-exclusive permission to display it to other users in the app according to your photo setting, and to store, resize and technically process it for that purpose. This permission ends when you delete the content, turn sharing off or delete your account.
 
