@@ -36,6 +36,8 @@ Comments and card captions are public and checked automatically before publicati
 
 Advertising, selling, sharing links, redirecting to other apps or accounts, and engagement spam such as 'follow for follow' or mass liking are prohibited.
 
+A caption can have up to 5 #hashtags; hashtags are visible to everyone in search and follow the same rules. Hashtags that target a person, carry personal information, or are misleading or irrelevant (used only to stand out) are not allowed; hashtags that break the rules are disabled.
+
 Card owners can delete comments on their own cards and turn comments off. A comment reported by three different people is hidden without waiting for review. There is no private messaging in the app; do not ask anyone for personal information.
 
 ## 5. Zero tolerance for objectionable content

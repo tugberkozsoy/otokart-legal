@@ -32,7 +32,7 @@ Paylaşılan fotoğraflar: kamerayla çekip doğrulanan kartlarının fotoğraf�
 
 Profil fotoğrafı: profil fotoğrafı eklersen fotoğraf, uygunsuz içerik denetiminden geçtikten sonra sunucuda saklanır ve diğer kullanıcılara gösterilir.
 
-Topluluk etkileşimleri: takip ettiğin ve seni takip eden kişiler, beğenilerin, yazdığın yorumlar ve kart açıklamaların, bu etkileşimlerden üretilen uygulama içi bildirimler, engellediğin kullanıcılar, yaptığın şikâyetler ve hakkındaki şikâyetler. Uygulamada kullanıcılar arası özel mesajlaşma yoktur; bütün etkileşimler herkese açık ve denetlenebilir alanlardadır.
+Topluluk etkileşimleri: takip ettiğin ve seni takip eden kişiler, beğenilerin, kaydettiğin paylaşımlar (listeni yalnızca sen görürsün; kartın sahibine bildirilmez), yazdığın yorumlar ve kart açıklamaların (içindeki #etiketler dahil), bu etkileşimlerden üretilen uygulama içi bildirimler, engellediğin kullanıcılar, yaptığın şikâyetler ve hakkındaki şikâyetler. Uygulamada kullanıcılar arası özel mesajlaşma yoktur; bütün etkileşimler herkese açık ve denetlenebilir alanlardadır.
 
 Anlık bildirimler: bildirim izni verdiysen ve topluluğa katıldıysan, Apple'ın bu uygulama ve cihaz için verdiği bildirim anahtarı; yalnızca seni ilgilendiren olayları (yeni takipçi, beğeni, yorum) telefonuna bildirmek için. Bildirim metninde yorumun içeriği yer almaz. Bildirim türlerini Profil > Ayarlar > Bildirimler bölümünden kapatabilirsin.
 
@@ -70,7 +70,7 @@ Apple: Apple ile giriş ve anlık bildirimlerin iletilmesi (Apple Push Notificat
 
 Yurt dışına aktarım, KVKK m. 9'daki şartlara uygun olarak yapılır.
 
-Diğer kullanıcılar: kullanıcı adın, ilin, avatarın, puanların, takipçi ve takip sayıların, kartların (konum hariç), vitrinin, kart açıklamaların, yorumların, kartlarının beğeni sayısı ve fotoğraf ayarına göre paylaşılan fotoğrafların uygulamada görünür. Takipçi ve takip listelerini yalnızca sen görürsün.
+Diğer kullanıcılar: kullanıcı adın, ilin, avatarın, puanların, kartların (konum hariç), vitrinin, kart açıklamaların ve içindeki #etiketler (etiketler ve kartlarının marka/model bilgisi aramada da bulunur), yorumların ve fotoğraf ayarına göre paylaşılan fotoğrafların uygulamada görünür. Takipçi ve takip sayılarını, listelerini, kartlarının beğeni sayısını ve kaydettiğin paylaşımları yalnızca sen görürsün.
 
 Yetkili kurum ve kuruluşlar: yasal bir zorunluluk olduğunda ve yalnızca gerektiği ölçüde.
 
@@ -80,7 +80,7 @@ Kişisel verilerin satılmaz; reklam, profilleme ya da uygulamalar arası takip 
 
 Verilerin hesabın açık olduğu sürece saklanır. Profil > Ayarlar > Hesabımı sil ile hesabını sildiğinde profilin, sunucudaki kart kayıtların, paylaştığın fotoğraflar, profil fotoğrafın, arkadaşlıkların ve hesabına bağlı kayıtlar kalıcı olarak silinir ve Otokart'ın Apple ile giriş yetkisi Apple'da iptal edilir. Paylaşımı kapattığında sunucudaki fotoğrafların silinir.
 
-Saklama süreleri: tanıma güvenlik kayıtları 90 gün; uygulama içi bildirimler 90 gün; günlük kota sayaçları ve tanıma adayları 30 gün; şikâyet kayıtları 1 yıl; yorumlar, beğeniler, takipler ve kart açıklamaları sen silene ya da hesabını silene kadar; bildirim anahtarı çıkış yapana ya da hesabını silene kadar (uygulama silinirse Apple'ın bildirimiyle otomatik olarak). Paylaşımlara (fotoğraf, profil fotoğrafı, yorum ve açıklama) ait trafik bilgileri (zaman, hesap kimliği, IP adresi; yazının içeriği değil) 5651 sayılı Kanun gereği 1 yıl saklanır ve en geç 13 ay sonra otomatik olarak silinir. Trafik bilgileri bu yasal yükümlülük nedeniyle hesabın silinmesinden sonra da bu süre boyunca saklanır.
+Saklama süreleri: tanıma güvenlik kayıtları 90 gün; uygulama içi bildirimler 90 gün; günlük kota sayaçları ve tanıma adayları 30 gün; şikâyet kayıtları 1 yıl; yorumlar, beğeniler, kaydedilenler, takipler ve kart açıklamaları (etiketleriyle) sen silene ya da hesabını silene kadar; kaydettiğin bir kart silinirse kayıt da silinir; bildirim anahtarı çıkış yapana ya da hesabını silene kadar (uygulama silinirse Apple'ın bildirimiyle otomatik olarak). Paylaşımlara (fotoğraf, profil fotoğrafı, yorum ve açıklama) ait trafik bilgileri (zaman, hesap kimliği, IP adresi; yazının içeriği değil) 5651 sayılı Kanun gereği 1 yıl saklanır ve en geç 13 ay sonra otomatik olarak silinir. Trafik bilgileri bu yasal yükümlülük nedeniyle hesabın silinmesinden sonra da bu süre boyunca saklanır.
 
 Yasal bir yükümlülük ya da devam eden bir uyuşmazlık gerektirirse ilgili kayıtlar yalnızca bu süre boyunca saklanabilir.
 

@@ -34,7 +34,7 @@ Shared photos: the photo of cards you captured with the camera and that were ver
 
 Profile photo: if you add a profile photo, it is stored on the server and shown to other users after passing an inappropriate-content check.
 
-Community interactions: the people you follow and who follow you, your likes, the comments and card captions you write, in-app notifications generated from these interactions, users you block, reports you make and reports about you. The app has no private messaging between users; all interactions take place in public, moderated areas.
+Community interactions: the people you follow and who follow you, your likes, the posts you save (only you can see your list; the card owner is not notified), the comments and card captions you write (including their #hashtags), in-app notifications generated from these interactions, users you block, reports you make and reports about you. The app has no private messaging between users; all interactions take place in public, moderated areas.
 
 Push notifications: if you allowed notifications and joined the community, the notification token Apple issues for this app and device, used only to notify your phone about events concerning you (new followers, likes, comments). Notifications do not include the text of comments. You can turn notification types off under Profile > Settings > Notifications.
 
@@ -72,7 +72,7 @@ Apple: Sign in with Apple and delivery of push notifications (Apple Push Notific
 
 Transfers abroad are made in accordance with the conditions of KVKK Art. 9.
 
-Other users: your username, province, avatar, points, follower and following counts, cards (excluding location), showcase, card captions, comments, like counts on your cards and, according to your photo setting, your shared photos are visible in the app. Only you can see your follower and following lists.
+Other users: your username, province, avatar, points, cards (excluding location), showcase, card captions and their #hashtags (hashtags and your cards' make/model are also searchable), comments and, according to your photo setting, your shared photos are visible in the app. Only you can see your follower and following counts and lists, the like counts on your cards and the posts you save.
 
 Competent authorities: only when legally required and only to the extent necessary.
 
@@ -82,7 +82,7 @@ Your personal data is not sold and is not used for advertising, profiling or cro
 
 Your data is kept while your account is open. When you delete your account under Profile > Settings > Delete my account, your profile, card records on the server, shared photos, profile photo, friendships and records linked to your account are permanently deleted, and Otokart's Sign in with Apple authorization is revoked at Apple. When you turn sharing off, your photos on the server are deleted.
 
-Retention periods: recognition security records 90 days; in-app notifications 90 days; daily quota counters and recognition candidates 30 days; reports 1 year; comments, likes, follows and card captions until you delete them or delete your account; the notification token until you sign out or delete your account (automatically when Apple reports the app was removed). Traffic information for shares (photos, profile photos, comments and captions: time, account identifier, IP address; not the text itself) is kept for 1 year as required by Law No. 5651 and deleted automatically after 13 months at the latest. Because of this legal obligation, traffic information is kept for this period even after the account is deleted.
+Retention periods: recognition security records 90 days; in-app notifications 90 days; daily quota counters and recognition candidates 30 days; reports 1 year; comments, likes, saved posts, follows and card captions (with their hashtags) until you delete them or delete your account; if a card you saved is deleted, the save is deleted too; the notification token until you sign out or delete your account (automatically when Apple reports the app was removed). Traffic information for shares (photos, profile photos, comments and captions: time, account identifier, IP address; not the text itself) is kept for 1 year as required by Law No. 5651 and deleted automatically after 13 months at the latest. Because of this legal obligation, traffic information is kept for this period even after the account is deleted.
 
 Where a legal obligation or an ongoing dispute requires it, the relevant records may be kept only for that period.
 

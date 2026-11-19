@@ -34,6 +34,8 @@ Yorumlar ve kart açıklamaları herkese açıktır ve yayınlanmadan önce otom
 
 Reklam, satış, bağlantı paylaşma, başka uygulamaya ya da hesaba yönlendirme ve 'takip edene takip', toplu beğeni gibi etkileşim spam'i yasaktır.
 
+Açıklamaya en çok 5 #etiket eklenebilir; etiketler aramada herkese görünür ve aynı kurallara tabidir. Bir kişiyi hedef alan, kişisel bilgi taşıyan, yanıltıcı ya da alakasız (yalnızca öne çıkmak için) etiket kullanılamaz; kurallara aykırı etiketler kapatılır.
+
 Kartın sahibi kendi kartındaki yorumları silebilir ve yorumları kapatabilir. Üç farklı kişinin şikâyet ettiği yorum inceleme beklenmeden gizlenir. Uygulamada özel mesajlaşma yoktur; kimseden kişisel bilgi isteme.
 
 ## 5. Uygunsuz içeriğe tolerans yok
