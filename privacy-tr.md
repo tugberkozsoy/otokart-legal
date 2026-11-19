@@ -6,7 +6,7 @@ permalink: /privacy-tr/
 
 # Otokart — Gizlilik Politikası ve KVKK Aydınlatma Metni
 
-**Son güncelleme:** 18.11.2026
+**Son güncelleme:** 19.11.2026
 
 🇬🇧 English: [/otokart-legal/privacy-en/](/otokart-legal/privacy-en/)
 
@@ -32,7 +32,7 @@ Paylaşılan fotoğraflar: kamerayla çekip doğrulanan kartlarının fotoğraf�
 
 Profil fotoğrafı: profil fotoğrafı eklersen fotoğraf, uygunsuz içerik denetiminden geçtikten sonra sunucuda saklanır ve diğer kullanıcılara gösterilir.
 
-Topluluk etkileşimleri: takip ettiğin ve seni takip eden kişiler, beğenilerin, kaydettiğin paylaşımlar (listeni yalnızca sen görürsün; kartın sahibine bildirilmez), yazdığın yorumlar ve kart açıklamaların (içindeki #etiketler dahil), bu etkileşimlerden üretilen uygulama içi bildirimler, engellediğin kullanıcılar, yaptığın şikâyetler ve hakkındaki şikâyetler. Uygulamada kullanıcılar arası özel mesajlaşma yoktur; bütün etkileşimler herkese açık ve denetlenebilir alanlardadır.
+Topluluk etkileşimleri: takip ettiğin ve seni takip eden kişiler, beğenilerin, kaydettiğin paylaşımlar (listeni yalnızca sen görürsün; kartın sahibine bildirilmez), yazdığın yorumlar ve kart açıklamaların (içindeki #etiketler dahil), bu etkileşimlerden üretilen uygulama içi bildirimler, engellediğin kullanıcılar, yaptığın şikâyetler ve hakkındaki şikâyetler. Uygulamada kullanıcılar arası özel mesajlaşma yoktur; bütün etkileşimler herkese açık ve denetlenebilir alanlardadır. Davet: davet kodun, kodunla katılan kişi sayısı ve seni davet eden kişi. Bir kodu girdiğinde davet edeni takip etmeye başlarsın ve bu takip ona bildirim olarak gider.
 
 Anlık bildirimler: bildirim izni verdiysen ve topluluğa katıldıysan, Apple'ın bu uygulama ve cihaz için verdiği bildirim anahtarı; yalnızca seni ilgilendiren olayları (yeni takipçi, beğeni, yorum) telefonuna bildirmek için. Bildirim metninde yorumun içeriği yer almaz. Bildirim türlerini Profil > Ayarlar > Bildirimler bölümünden kapatabilirsin.
 
@@ -42,7 +42,7 @@ Otokart özel nitelikli kişisel veri (sağlık, biyometrik veri vb.) toplamaz. 
 
 ## 3. Telefonunda kalan veriler
 
-Kartın çekildiği konum, garajındaki fotoğrafların orijinalleri, bildirim tercihlerin ve hatırlatmaların yalnızca telefonunda saklanır, sunucuya gönderilmez. Konum, kartlarını haritada göstermek içindir ve başka kullanıcılarla paylaşılmaz. Telefonunda saklanan verilerin yedeği senin sorumluluğundadır; uygulamayı silersen bu veriler de silinir.
+Kartın çekildiği konum, garajındaki fotoğrafların orijinalleri, bildirim tercihlerin ve hatırlatmaların yalnızca telefonunda saklanır, sunucuya gönderilmez. Konum, kartlarını haritada göstermek içindir ve başka kullanıcılarla paylaşılmaz. Telefonunda saklanan verilerin yedeği senin sorumluluğundadır; uygulamayı silersen bu veriler de silinir. Widget'lar seri, haftanın teması ve görev özetini telefondaki uygulama alanından okur; sunucuya bağlanmaz. Kilit ekranı kamerasıyla çektiğin fotoğraflar, karta dönüştürene kadar yalnızca telefonunda bekler ve 7 gün içinde karta dönüştürülmezse silinir.
 
 ## 4. İşleme amaçları
 
@@ -55,6 +55,8 @@ Veriler, uygulamayı kullanırken senin girdiğin bilgilerden ve çektiğin foto
 Veriler; KVKK m. 5/2-c uyarınca uygulamanın sunulması için (sözleşmenin kurulması ve ifası), m. 5/2-f uyarınca güvenlik, hile ve kötüye kullanımın önlenmesi için (meşru menfaat), m. 5/2-ç uyarınca yasal yükümlülüklerin (5651 sayılı Kanun kapsamındaki trafik bilgisi saklama dahil) yerine getirilmesi ve m. 5/2-e uyarınca bir hakkın tesisi, kullanılması ya da korunması için işlenir.
 
 Fotoğraf paylaşımı ve profil fotoğrafı senin tercihine bağlıdır: fotoğraf paylaşımını Profil > Ayarlar > Fotoğraflarımı kim görsün bölümünden istediğin an kapatabilir, profil fotoğrafını kaldırabilirsin.
+
+Kart görselini ya da hikâye görselini Instagram, WhatsApp gibi başka uygulamalarda paylaşmak senin tercihindir: görsel, paylaşım menüsünde seçtiğin uygulamaya gönderilir ve o uygulamanın koşullarına tabidir. Hikâye görselinde kartın, kullanıcı adın ve davet kodun bulunur; konum ve şehir bulunmaz.
 
 ## 6. Otomatik denetim
 
@@ -80,7 +82,7 @@ Kişisel verilerin satılmaz; reklam, profilleme ya da uygulamalar arası takip 
 
 Verilerin hesabın açık olduğu sürece saklanır. Profil > Ayarlar > Hesabımı sil ile hesabını sildiğinde profilin, sunucudaki kart kayıtların, paylaştığın fotoğraflar, profil fotoğrafın, arkadaşlıkların ve hesabına bağlı kayıtlar kalıcı olarak silinir ve Otokart'ın Apple ile giriş yetkisi Apple'da iptal edilir. Paylaşımı kapattığında sunucudaki fotoğrafların silinir.
 
-Saklama süreleri: tanıma güvenlik kayıtları 90 gün; uygulama içi bildirimler 90 gün; günlük kota sayaçları ve tanıma adayları 30 gün; şikâyet kayıtları 1 yıl; yorumlar, beğeniler, kaydedilenler, takipler ve kart açıklamaları (etiketleriyle) sen silene ya da hesabını silene kadar; kaydettiğin bir kart silinirse kayıt da silinir; bildirim anahtarı çıkış yapana ya da hesabını silene kadar (uygulama silinirse Apple'ın bildirimiyle otomatik olarak). Paylaşımlara (fotoğraf, profil fotoğrafı, yorum ve açıklama) ait trafik bilgileri (zaman, hesap kimliği, IP adresi; yazının içeriği değil) 5651 sayılı Kanun gereği 1 yıl saklanır ve en geç 13 ay sonra otomatik olarak silinir. Trafik bilgileri bu yasal yükümlülük nedeniyle hesabın silinmesinden sonra da bu süre boyunca saklanır.
+Saklama süreleri: tanıma güvenlik kayıtları 90 gün; uygulama içi bildirimler 90 gün; günlük kota sayaçları ve tanıma adayları 30 gün; şikâyet kayıtları 1 yıl; yorumlar, beğeniler, kaydedilenler, takipler, davet kayıtları ve kart açıklamaları (etiketleriyle) sen silene ya da hesabını silene kadar; kaydettiğin bir kart silinirse kayıt da silinir; bildirim anahtarı çıkış yapana ya da hesabını silene kadar (uygulama silinirse Apple'ın bildirimiyle otomatik olarak). Paylaşımlara (fotoğraf, profil fotoğrafı, yorum ve açıklama) ait trafik bilgileri (zaman, hesap kimliği, IP adresi; yazının içeriği değil) 5651 sayılı Kanun gereği 1 yıl saklanır ve en geç 13 ay sonra otomatik olarak silinir. Trafik bilgileri bu yasal yükümlülük nedeniyle hesabın silinmesinden sonra da bu süre boyunca saklanır.
 
 Yasal bir yükümlülük ya da devam eden bir uyuşmazlık gerektirirse ilgili kayıtlar yalnızca bu süre boyunca saklanabilir.
 
@@ -100,4 +102,4 @@ Başvurularını [İLETİŞİM E-POSTASI] adresine iletebilirsin. Başvurun, nit
 
 ## 12. Değişiklikler
 
-Bu metin uygulamaya yeni özellikler eklendikçe güncellenir. Esaslı değişiklikler uygulama içinde duyurulur ve gerektiğinde yeniden onayın istenir. Son güncelleme: 18.11.2026.
+Bu metin uygulamaya yeni özellikler eklendikçe güncellenir. Esaslı değişiklikler uygulama içinde duyurulur ve gerektiğinde yeniden onayın istenir. Son güncelleme: 19.11.2026.

@@ -6,7 +6,7 @@ permalink: /privacy-en/
 
 # Otokart — Privacy Policy and KVKK Notice
 
-**Last updated:** 18.11.2026
+**Last updated:** 19.11.2026
 
 *This is a translation. In case of any discrepancy, the Turkish version prevails.*
 
@@ -34,7 +34,7 @@ Shared photos: the photo of cards you captured with the camera and that were ver
 
 Profile photo: if you add a profile photo, it is stored on the server and shown to other users after passing an inappropriate-content check.
 
-Community interactions: the people you follow and who follow you, your likes, the posts you save (only you can see your list; the card owner is not notified), the comments and card captions you write (including their #hashtags), in-app notifications generated from these interactions, users you block, reports you make and reports about you. The app has no private messaging between users; all interactions take place in public, moderated areas.
+Community interactions: the people you follow and who follow you, your likes, the posts you save (only you can see your list; the card owner is not notified), the comments and card captions you write (including their #hashtags), in-app notifications generated from these interactions, users you block, reports you make and reports about you. The app has no private messaging between users; all interactions take place in public, moderated areas. Invites: your invite code, how many people joined with it and who invited you. When you enter a code you start following the person who invited you, and they are notified of the follow.
 
 Push notifications: if you allowed notifications and joined the community, the notification token Apple issues for this app and device, used only to notify your phone about events concerning you (new followers, likes, comments). Notifications do not include the text of comments. You can turn notification types off under Profile > Settings > Notifications.
 
@@ -44,7 +44,7 @@ Otokart does not collect special categories of personal data (health, biometric 
 
 ## 3. Data that stays on your phone
 
-The location where a card was captured, the original photos in your garage, your notification preferences and reminders are stored only on your phone and are not sent to the server. Location is used to show your cards on your map and is not shared with other users. Backing up data stored on your phone is your responsibility; deleting the app deletes this data.
+The location where a card was captured, the original photos in your garage, your notification preferences and reminders are stored only on your phone and are not sent to the server. Location is used to show your cards on your map and is not shared with other users. Backing up data stored on your phone is your responsibility; deleting the app deletes this data. Widgets read your streak, weekly theme and mission summary from the app's storage on your phone; they do not connect to the server. Photos taken with the lock screen camera wait only on your phone until you turn them into cards, and are deleted if not turned into a card within 7 days.
 
 ## 4. Purposes
 
@@ -57,6 +57,8 @@ Data is collected electronically and automatically from the information you ente
 Data is processed under KVKK Art. 5/2-c to provide the app (formation and performance of a contract), Art. 5/2-f for security and preventing cheating and abuse (legitimate interest), Art. 5/2-ç to comply with legal obligations (including retention of traffic information under Law No. 5651), and Art. 5/2-e to establish, exercise or defend a right.
 
 Photo sharing and profile photos are your choice: you can turn photo sharing off at any time under Profile > Settings > Who can see my photos, and remove your profile photo.
+
+Sharing a card image or story image in other apps such as Instagram or WhatsApp is your choice: the image is sent to the app you pick in the share menu and is subject to that app's terms. The story image contains your card, username and invite code; it contains no location or city.
 
 ## 6. Automated checks
 
@@ -82,7 +84,7 @@ Your personal data is not sold and is not used for advertising, profiling or cro
 
 Your data is kept while your account is open. When you delete your account under Profile > Settings > Delete my account, your profile, card records on the server, shared photos, profile photo, friendships and records linked to your account are permanently deleted, and Otokart's Sign in with Apple authorization is revoked at Apple. When you turn sharing off, your photos on the server are deleted.
 
-Retention periods: recognition security records 90 days; in-app notifications 90 days; daily quota counters and recognition candidates 30 days; reports 1 year; comments, likes, saved posts, follows and card captions (with their hashtags) until you delete them or delete your account; if a card you saved is deleted, the save is deleted too; the notification token until you sign out or delete your account (automatically when Apple reports the app was removed). Traffic information for shares (photos, profile photos, comments and captions: time, account identifier, IP address; not the text itself) is kept for 1 year as required by Law No. 5651 and deleted automatically after 13 months at the latest. Because of this legal obligation, traffic information is kept for this period even after the account is deleted.
+Retention periods: recognition security records 90 days; in-app notifications 90 days; daily quota counters and recognition candidates 30 days; reports 1 year; comments, likes, saved posts, follows, invite records and card captions (with their hashtags) until you delete them or delete your account; if a card you saved is deleted, the save is deleted too; the notification token until you sign out or delete your account (automatically when Apple reports the app was removed). Traffic information for shares (photos, profile photos, comments and captions: time, account identifier, IP address; not the text itself) is kept for 1 year as required by Law No. 5651 and deleted automatically after 13 months at the latest. Because of this legal obligation, traffic information is kept for this period even after the account is deleted.
 
 Where a legal obligation or an ongoing dispute requires it, the relevant records may be kept only for that period.
 
@@ -102,4 +104,4 @@ You can send requests to [İLETİŞİM E-POSTASI]. Requests are concluded free o
 
 ## 12. Changes
 
-This document is updated as new features are added. Material changes are announced in the app and, where necessary, your consent is requested again. Last updated: 18.11.2026.
+This document is updated as new features are added. Material changes are announced in the app and, where necessary, your consent is requested again. Last updated: 19.11.2026.

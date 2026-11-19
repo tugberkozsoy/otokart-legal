@@ -6,7 +6,7 @@ permalink: /rules-en/
 
 # Otokart — Community Rules
 
-**Last updated:** 18.11.2026
+**Last updated:** 19.11.2026
 
 *This is a translation. In case of any discrepancy, the Turkish version prevails.*
 
@@ -34,7 +34,7 @@ Other people's personal information (plates, faces, phone numbers, addresses); a
 
 Comments and card captions are public and checked automatically before publication. Opinions, criticism and jokes about cars are welcome; insulting, mocking, harassing, threatening or persistently bothering people is prohibited.
 
-Advertising, selling, sharing links, redirecting to other apps or accounts, and engagement spam such as 'follow for follow' or mass liking are prohibited.
+Advertising, selling, sharing links, redirecting to other apps or accounts, and engagement spam such as 'follow for follow' or mass liking are prohibited. Spreading your invite code in comments and captions, or inflating invites with fake accounts, is also prohibited; invite badges may be revoked.
 
 A caption can have up to 5 #hashtags; hashtags are visible to everyone in search and follow the same rules. Hashtags that target a person, carry personal information, or are misleading or irrelevant (used only to stand out) are not allowed; hashtags that break the rules are disabled.
 
@@ -60,4 +60,4 @@ You retain the rights to the photos you share. By sharing, you allow Otokart to 
 
 You must be at least 13 years old to use Otokart.
 
-Questions and reports: [İLETİŞİM E-POSTASI]. Last updated: 18.11.2026.
+Questions and reports: [İLETİŞİM E-POSTASI]. Last updated: 19.11.2026.

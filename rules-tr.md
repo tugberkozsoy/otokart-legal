@@ -6,7 +6,7 @@ permalink: /rules-tr/
 
 # Otokart — Topluluk Kuralları
 
-**Son güncelleme:** 18.11.2026
+**Son güncelleme:** 19.11.2026
 
 🇬🇧 English: [/otokart-legal/rules-en/](/otokart-legal/rules-en/)
 
@@ -32,7 +32,7 @@ Başkalarının kişisel bilgileri (plaka, yüz, telefon numarası, adres); rekl
 
 Yorumlar ve kart açıklamaları herkese açıktır ve yayınlanmadan önce otomatik olarak denetlenir. Arabalar hakkında görüş, eleştiri ve şaka serbesttir; kişilere hakaret, alay, taciz, tehdit ve ısrarlı rahatsız etme yasaktır.
 
-Reklam, satış, bağlantı paylaşma, başka uygulamaya ya da hesaba yönlendirme ve 'takip edene takip', toplu beğeni gibi etkileşim spam'i yasaktır.
+Reklam, satış, bağlantı paylaşma, başka uygulamaya ya da hesaba yönlendirme ve 'takip edene takip', toplu beğeni gibi etkileşim spam'i yasaktır. Davet kodunu yorumlarda ve kart açıklamalarında yaymak ya da sahte hesaplarla davet sayısını şişirmek de yasaktır; bu durumda davet rozetleri geri alınabilir.
 
 Açıklamaya en çok 5 #etiket eklenebilir; etiketler aramada herkese görünür ve aynı kurallara tabidir. Bir kişiyi hedef alan, kişisel bilgi taşıyan, yanıltıcı ya da alakasız (yalnızca öne çıkmak için) etiket kullanılamaz; kurallara aykırı etiketler kapatılır.
 
@@ -58,4 +58,4 @@ Paylaştığın fotoğrafların hakları sende kalır. Paylaşarak Otokart'a bu 
 
 Otokart'ı kullanmak için en az 13 yaşında olmalısın.
 
-Soruların ve bildirimlerin için: [İLETİŞİM E-POSTASI]. Son güncelleme: 18.11.2026.
+Soruların ve bildirimlerin için: [İLETİŞİM E-POSTASI]. Son güncelleme: 19.11.2026.
