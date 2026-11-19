@@ -30,7 +30,7 @@ Başkalarının kişisel bilgileri (plaka, yüz, telefon numarası, adres); rekl
 
 ## 4. Yorumlar, beğeniler ve takip
 
-Yorumlar ve kart açıklamaları herkese açıktır ve yayınlanmadan önce otomatik olarak denetlenir. Arabalar hakkında görüş, eleştiri ve şaka serbesttir; kişilere hakaret, alay, taciz, tehdit ve ısrarlı rahatsız etme yasaktır.
+Yorumlar, kart açıklamaları ve profil biyografileri herkese açıktır ve yayınlanmadan önce otomatik olarak denetlenir. Biyografide başka bir sosyal medya hesabı, telefon, okul adı, yaş ya da bağlantı paylaşılamaz. Arabalar hakkında görüş, eleştiri ve şaka serbesttir; kişilere hakaret, alay, taciz, tehdit ve ısrarlı rahatsız etme yasaktır.
 
 Reklam, satış, bağlantı paylaşma, başka uygulamaya ya da hesaba yönlendirme ve 'takip edene takip', toplu beğeni gibi etkileşim spam'i yasaktır. Davet kodunu yorumlarda ve kart açıklamalarında yaymak ya da sahte hesaplarla davet sayısını şişirmek de yasaktır; bu durumda davet rozetleri geri alınabilir.
 

@@ -22,7 +22,7 @@ Bu metin, 6698 sayılı Kişisel Verilerin Korunması Kanunu (KVKK) m. 10 uyarı
 
 Hesap: Apple ile giriş yaptığında Apple'ın uygulamaya özel verdiği kullanıcı kimliği. Adın ve e-posta adresin istenmez, alınmaz.
 
-Topluluk profili: seçtiğin kullanıcı adı, isteğe bağlı olarak seçtiğin il, avatarın (simge ve renk ya da profil fotoğrafı) ve vitrinine koyduğun kartlar.
+Topluluk profili: seçtiğin kullanıcı adı, isteğe bağlı olarak seçtiğin il, avatarın (simge ve renk ya da profil fotoğrafı), isteğe bağlı biyografin (en çok 150 karakterlik tanıtım yazısı) ve vitrinine koyduğun kartlar.
 
 Kartlar: tanınan aracın marka, model ve sürüm bilgisi, nadirliği, puanı, kaydedildiği tarih, doğrulanma durumu ve bir aracı Otokart'ta ilk bulan kişi kaydı.
 
@@ -66,13 +66,13 @@ Paylaşılacak fotoğraflar, profil fotoğrafları, yorumlar ve kart açıklamal
 
 Supabase: veritabanı, oturum ve dosya depolama altyapısı. Sunucular Almanya'da (Frankfurt, Avrupa Birliği) bulunur.
 
-Anthropic: yapay zekâ ile araç tanıma ve paylaşılacak fotoğrafların, yorumların ve kart açıklamalarının denetimi. Hizmet Amerika Birleşik Devletleri'nde sunulur. Bu hizmete yalnızca bulanıklaştırılmış fotoğraflar ve denetlenecek yazının kendisi (ve kartın marka/model bilgisi) gönderilir; kullanıcı adın ya da Apple kimliğin gönderilmez.
+Anthropic: yapay zekâ ile araç tanıma ve paylaşılacak fotoğrafların, yorumların, kart açıklamalarının ve biyografilerin denetimi. Hizmet Amerika Birleşik Devletleri'nde sunulur. Bu hizmete yalnızca bulanıklaştırılmış fotoğraflar ve denetlenecek yazının kendisi (ve kartın marka/model bilgisi) gönderilir; kullanıcı adın ya da Apple kimliğin gönderilmez.
 
 Apple: Apple ile giriş ve anlık bildirimlerin iletilmesi (Apple Push Notification service).
 
 Yurt dışına aktarım, KVKK m. 9'daki şartlara uygun olarak yapılır.
 
-Diğer kullanıcılar: kullanıcı adın, ilin, avatarın, puanların, kartların (konum hariç), vitrinin, kart açıklamaların ve içindeki #etiketler (etiketler ve kartlarının marka/model bilgisi aramada da bulunur), yorumların ve fotoğraf ayarına göre paylaşılan fotoğrafların uygulamada görünür. Takipçi ve takip sayılarını, listelerini, kartlarının beğeni sayısını ve kaydettiğin paylaşımları yalnızca sen görürsün.
+Diğer kullanıcılar: kullanıcı adın, ilin, avatarın, biyografin, puanların, kartların (konum hariç), vitrinin, kart açıklamaların ve içindeki #etiketler (etiketler ve kartlarının marka/model bilgisi aramada da bulunur), yorumların ve fotoğraf ayarına göre paylaşılan fotoğrafların uygulamada görünür. Takipçi ve takip sayılarını, listelerini, kartlarının beğeni sayısını ve kaydettiğin paylaşımları yalnızca sen görürsün.
 
 Yetkili kurum ve kuruluşlar: yasal bir zorunluluk olduğunda ve yalnızca gerektiği ölçüde.
 
@@ -82,7 +82,7 @@ Kişisel verilerin satılmaz; reklam, profilleme ya da uygulamalar arası takip 
 
 Verilerin hesabın açık olduğu sürece saklanır. Profil > Ayarlar > Hesabımı sil ile hesabını sildiğinde profilin, sunucudaki kart kayıtların, paylaştığın fotoğraflar, profil fotoğrafın, arkadaşlıkların ve hesabına bağlı kayıtlar kalıcı olarak silinir ve Otokart'ın Apple ile giriş yetkisi Apple'da iptal edilir. Paylaşımı kapattığında sunucudaki fotoğrafların silinir.
 
-Saklama süreleri: tanıma güvenlik kayıtları 90 gün; uygulama içi bildirimler 90 gün; günlük kota sayaçları ve tanıma adayları 30 gün; şikâyet kayıtları 1 yıl; yorumlar, beğeniler, kaydedilenler, takipler, davet kayıtları ve kart açıklamaları (etiketleriyle) sen silene ya da hesabını silene kadar; kaydettiğin bir kart silinirse kayıt da silinir; bildirim anahtarı çıkış yapana ya da hesabını silene kadar (uygulama silinirse Apple'ın bildirimiyle otomatik olarak). Paylaşımlara (fotoğraf, profil fotoğrafı, yorum ve açıklama) ait trafik bilgileri (zaman, hesap kimliği, IP adresi; yazının içeriği değil) 5651 sayılı Kanun gereği 1 yıl saklanır ve en geç 13 ay sonra otomatik olarak silinir. Trafik bilgileri bu yasal yükümlülük nedeniyle hesabın silinmesinden sonra da bu süre boyunca saklanır.
+Saklama süreleri: tanıma güvenlik kayıtları 90 gün; uygulama içi bildirimler 90 gün; günlük kota sayaçları ve tanıma adayları 30 gün; şikâyet kayıtları 1 yıl; yorumlar, beğeniler, kaydedilenler, takipler, davet kayıtları, biyografi ve kart açıklamaları (etiketleriyle) sen silene ya da hesabını silene kadar; kaydettiğin bir kart silinirse kayıt da silinir; bildirim anahtarı çıkış yapana ya da hesabını silene kadar (uygulama silinirse Apple'ın bildirimiyle otomatik olarak). Paylaşımlara (fotoğraf, profil fotoğrafı, yorum ve açıklama) ait trafik bilgileri (zaman, hesap kimliği, IP adresi; yazının içeriği değil) 5651 sayılı Kanun gereği 1 yıl saklanır ve en geç 13 ay sonra otomatik olarak silinir. Trafik bilgileri bu yasal yükümlülük nedeniyle hesabın silinmesinden sonra da bu süre boyunca saklanır.
 
 Yasal bir yükümlülük ya da devam eden bir uyuşmazlık gerektirirse ilgili kayıtlar yalnızca bu süre boyunca saklanabilir.
 

@@ -32,7 +32,7 @@ Other people's personal information (plates, faces, phone numbers, addresses); a
 
 ## 4. Comments, likes and follows
 
-Comments and card captions are public and checked automatically before publication. Opinions, criticism and jokes about cars are welcome; insulting, mocking, harassing, threatening or persistently bothering people is prohibited.
+Comments, card captions and profile bios are public and checked automatically before publication. Bios may not contain other social media accounts, phone numbers, school names, age or links. Opinions, criticism and jokes about cars are welcome; insulting, mocking, harassing, threatening or persistently bothering people is prohibited.
 
 Advertising, selling, sharing links, redirecting to other apps or accounts, and engagement spam such as 'follow for follow' or mass liking are prohibited. Spreading your invite code in comments and captions, or inflating invites with fake accounts, is also prohibited; invite badges may be revoked.
 
