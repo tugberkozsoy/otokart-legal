@@ -42,6 +42,8 @@ Paylaştığın fotoğraflardan, yorumlardan, kart açıklamalarından, kullanı
 
 Otokart, kurallara ya da hukuka aykırı olduğunu değerlendirdiği içerikleri önceden bildirimde bulunmadan kaldırabilir. Otomatik denetim ve bulanıklaştırma elden geldiğince dikkatle yapılır, ancak her durumda hatasız çalışacağı garanti edilemez; paylaşmadan önce fotoğrafını kontrol etmek senin sorumluluğundadır.
 
+Bir içeriğin kurallar nedeniyle gizlenir ya da kaldırılırsa sana uygulama içinde ve bildirimle, hangi kural nedeniyle olduğu bildirilir. Şikâyetler ve gizleme kararları önce otomatik olarak, yapay zekâ destekli denetimle incelenir. Karara 30 gün içinde uygulamadaki bildirimden itiraz edebilirsin; itirazını bir kişi inceler ve haklı bulunursa içeriğin yeniden yayınlanır. Hesap askıya alma kararları her zaman bir kişi tarafından verilir. KVKK m. 11 uyarınca, yalnızca otomatik sistemlerle yapılan analiz sonucunda aleyhine bir sonuç çıkmasına itiraz etme hakkın saklıdır.
+
 Hukuka aykırı olduğunu ya da kişilik haklarını ihlal ettiğini düşündüğün bir içeriği uygulamadaki şikâyet menüsünden ya da [İLETİŞİM E-POSTASI] adresine yazarak bildirebilirsin. Bildirimler en geç 24 saat içinde incelenir ve hukuka aykırı içerik yayından kaldırılır.
 
 ## 6. Bilgilerin doğruluğu

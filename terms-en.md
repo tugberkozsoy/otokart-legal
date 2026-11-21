@@ -44,6 +44,8 @@ You retain the rights to your content. By sharing, you grant Otokart a worldwide
 
 Otokart may remove content it considers to violate the rules or the law without prior notice. Automated checks and blurring are performed with care but cannot be guaranteed to work without error in every case; checking your photo before sharing is your responsibility.
 
+If your content is hidden or removed under the rules, you are told in the app and by notification which rule it was. Reports and hiding decisions are first reviewed automatically with AI-assisted moderation. You can appeal the decision within 30 days from the notification in the app; a person reviews your appeal and, if it is upheld, your content is published again. Account suspensions are always decided by a person. Under KVKK Art. 11 you keep the right to object to an outcome against you that results solely from automated analysis.
+
 You can report content you believe is unlawful or violates personal rights through the report menu in the app or by writing to [İLETİŞİM E-POSTASI]. Reports are reviewed within 24 hours and unlawful content is removed.
 
 ## 6. Accuracy of information
