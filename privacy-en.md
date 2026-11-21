@@ -6,7 +6,7 @@ permalink: /privacy-en/
 
 # Otokart — Privacy Policy and KVKK Notice
 
-**Last updated:** 19.11.2026
+**Last updated:** 21.11.2026
 
 *This is a translation. In case of any discrepancy, the Turkish version prevails.*
 
@@ -38,6 +38,8 @@ Community interactions: the people you follow and who follow you, your likes, th
 
 Push notifications: if you allowed notifications and joined the community, the notification token Apple issues for this app and device, used only to notify your phone about events concerning you (new followers, likes, comments). Notifications do not include the text of comments. You can turn notification types off under Profile > Settings > Notifications.
 
+Card issue reports: when you report a mistake on one of your cards, the issue type you choose, the description and correction you write, the card's vehicle details (make, model, generation, version, specifications, rarity), the recognition candidates and the app version. Your photo is not sent; if the card was shared publicly, only the shared photo's link key is included. Reports are read only by the Otokart team and used only to correct recognition and vehicle details.
+
 Security and traffic records: the time, result and volume of recognition and sharing requests are kept to enforce daily limits and prevent abuse. For photo and profile photo shares, the time of sharing, account identifier and IP address are recorded to meet obligations under Turkish Law No. 5651. The server infrastructure may keep technical connection logs such as IP addresses for a limited time.
 
 Otokart does not collect special categories of personal data (health, biometric data, etc.). Faces in photos are not recognized or matched; they are only detected in order to be blurred.
@@ -48,7 +50,7 @@ The location where a card was captured, the original photos in your garage, your
 
 ## 4. Purposes
 
-Recognizing the vehicle in a photo and creating its card; providing community features such as points, leaderboards, friends, showcase and Discover; preventing cheating, abuse and inappropriate content; keeping your account and the service secure; reviewing reports and meeting legal obligations.
+Recognizing the vehicle in a photo and creating its card; providing community features such as points, leaderboards, friends, showcase and Discover; preventing cheating, abuse and inappropriate content; keeping your account and the service secure; reviewing reports and card issue reports, and correcting recognition and vehicle details; meeting legal obligations.
 
 ## 5. Collection method and legal bases
 
@@ -84,7 +86,7 @@ Your personal data is not sold and is not used for advertising, profiling or cro
 
 Your data is kept while your account is open. When you delete your account under Profile > Settings > Delete my account, your profile, card records on the server, shared photos, profile photo, friendships and records linked to your account are permanently deleted, and Otokart's Sign in with Apple authorization is revoked at Apple. When you turn sharing off, your photos on the server are deleted.
 
-Retention periods: recognition security records 90 days; in-app notifications 90 days; daily quota counters and recognition candidates 30 days; reports 1 year; comments, likes, saved posts, follows, invite records, bio and card captions (with their hashtags) until you delete them or delete your account; if a card you saved is deleted, the save is deleted too; the notification token until you sign out or delete your account (automatically when Apple reports the app was removed). Traffic information for shares (photos, profile photos, comments and captions: time, account identifier, IP address; not the text itself) is kept for 1 year as required by Law No. 5651 and deleted automatically after 13 months at the latest. Because of this legal obligation, traffic information is kept for this period even after the account is deleted.
+Retention periods: recognition security records 90 days; in-app notifications 90 days; daily quota counters and recognition candidates 30 days; reports and card issue reports 1 year; comments, likes, saved posts, follows, invite records, bio and card captions (with their hashtags) until you delete them or delete your account; if a card you saved is deleted, the save is deleted too; the notification token until you sign out or delete your account (automatically when Apple reports the app was removed). Traffic information for shares (photos, profile photos, comments and captions: time, account identifier, IP address; not the text itself) is kept for 1 year as required by Law No. 5651 and deleted automatically after 13 months at the latest. Because of this legal obligation, traffic information is kept for this period even after the account is deleted.
 
 Where a legal obligation or an ongoing dispute requires it, the relevant records may be kept only for that period.
 
@@ -104,4 +106,4 @@ You can send requests to [İLETİŞİM E-POSTASI]. Requests are concluded free o
 
 ## 12. Changes
 
-This document is updated as new features are added. Material changes are announced in the app and, where necessary, your consent is requested again. Last updated: 19.11.2026.
+This document is updated as new features are added. Material changes are announced in the app and, where necessary, your consent is requested again. Last updated: 21.11.2026.

@@ -6,7 +6,7 @@ permalink: /rules-en/
 
 # Otokart — Community Rules
 
-**Last updated:** 19.11.2026
+**Last updated:** 21.11.2026
 
 *This is a translation. In case of any discrepancy, the Turkish version prevails.*
 
@@ -60,4 +60,4 @@ You retain the rights to the photos you share. By sharing, you allow Otokart to 
 
 You must be at least 13 years old to use Otokart.
 
-Questions and reports: [İLETİŞİM E-POSTASI]. Last updated: 19.11.2026.
+Questions and reports: [İLETİŞİM E-POSTASI]. Last updated: 21.11.2026.

@@ -6,7 +6,7 @@ permalink: /privacy-tr/
 
 # Otokart — Gizlilik Politikası ve KVKK Aydınlatma Metni
 
-**Son güncelleme:** 19.11.2026
+**Son güncelleme:** 21.11.2026
 
 🇬🇧 English: [/otokart-legal/privacy-en/](/otokart-legal/privacy-en/)
 
@@ -36,6 +36,8 @@ Topluluk etkileşimleri: takip ettiğin ve seni takip eden kişiler, beğenileri
 
 Anlık bildirimler: bildirim izni verdiysen ve topluluğa katıldıysan, Apple'ın bu uygulama ve cihaz için verdiği bildirim anahtarı; yalnızca seni ilgilendiren olayları (yeni takipçi, beğeni, yorum) telefonuna bildirmek için. Bildirim metninde yorumun içeriği yer almaz. Bildirim türlerini Profil > Ayarlar > Bildirimler bölümünden kapatabilirsin.
 
+Kart sorun bildirimleri: bir kartındaki hatayı bildirdiğinde seçtiğin sorun türü, yazdığın açıklama ve önerin, kartın araç bilgileri (marka, model, nesil, sürüm, teknik değerler, nadirlik), tanımadaki adaylar ve uygulama sürümü. Fotoğrafın gönderilmez; kart herkese açık paylaşıldıysa yalnızca paylaşılan fotoğrafın bağlantı anahtarı eklenir. Bildirimleri yalnızca Otokart ekibi okur ve yalnızca tanımayı ve araç bilgilerini düzeltmek için kullanılır.
+
 Güvenlik ve trafik kayıtları: tanıma ve paylaşım isteklerinin zamanı, sonucu ve işlem miktarı, günlük sınırları uygulamak ve kötüye kullanımı önlemek için tutulur. Fotoğraf ve profil fotoğrafı paylaşımlarında, 5651 sayılı Kanun kapsamındaki yükümlülükler için paylaşımın zamanı, hesap kimliği ve IP adresi kaydedilir. Sunucu altyapısı, bağlantı sırasında IP adresi gibi teknik kayıtları sınırlı süre tutabilir.
 
 Otokart özel nitelikli kişisel veri (sağlık, biyometrik veri vb.) toplamaz. Fotoğraflardaki yüzler tanınmaz, eşleştirilmez; yalnızca bulanıklaştırılmak için bulunur.
@@ -46,7 +48,7 @@ Kartın çekildiği konum, garajındaki fotoğrafların orijinalleri, bildirim t
 
 ## 4. İşleme amaçları
 
-Fotoğraftaki aracı tanımak ve kartını oluşturmak; puan, sıralama, arkadaşlar, vitrin ve Keşfet gibi topluluk özelliklerini sunmak; hileyi, kötüye kullanımı ve uygunsuz içeriği önlemek; hesabının ve hizmetin güvenliğini sağlamak; şikâyetleri incelemek ve yasal yükümlülükleri yerine getirmek.
+Fotoğraftaki aracı tanımak ve kartını oluşturmak; puan, sıralama, arkadaşlar, vitrin ve Keşfet gibi topluluk özelliklerini sunmak; hileyi, kötüye kullanımı ve uygunsuz içeriği önlemek; hesabının ve hizmetin güvenliğini sağlamak; şikâyetleri ve kart sorun bildirimlerini incelemek, tanımayı ve araç bilgilerini düzeltmek; yasal yükümlülükleri yerine getirmek.
 
 ## 5. Toplama yöntemi ve hukuki sebepler
 
@@ -82,7 +84,7 @@ Kişisel verilerin satılmaz; reklam, profilleme ya da uygulamalar arası takip 
 
 Verilerin hesabın açık olduğu sürece saklanır. Profil > Ayarlar > Hesabımı sil ile hesabını sildiğinde profilin, sunucudaki kart kayıtların, paylaştığın fotoğraflar, profil fotoğrafın, arkadaşlıkların ve hesabına bağlı kayıtlar kalıcı olarak silinir ve Otokart'ın Apple ile giriş yetkisi Apple'da iptal edilir. Paylaşımı kapattığında sunucudaki fotoğrafların silinir.
 
-Saklama süreleri: tanıma güvenlik kayıtları 90 gün; uygulama içi bildirimler 90 gün; günlük kota sayaçları ve tanıma adayları 30 gün; şikâyet kayıtları 1 yıl; yorumlar, beğeniler, kaydedilenler, takipler, davet kayıtları, biyografi ve kart açıklamaları (etiketleriyle) sen silene ya da hesabını silene kadar; kaydettiğin bir kart silinirse kayıt da silinir; bildirim anahtarı çıkış yapana ya da hesabını silene kadar (uygulama silinirse Apple'ın bildirimiyle otomatik olarak). Paylaşımlara (fotoğraf, profil fotoğrafı, yorum ve açıklama) ait trafik bilgileri (zaman, hesap kimliği, IP adresi; yazının içeriği değil) 5651 sayılı Kanun gereği 1 yıl saklanır ve en geç 13 ay sonra otomatik olarak silinir. Trafik bilgileri bu yasal yükümlülük nedeniyle hesabın silinmesinden sonra da bu süre boyunca saklanır.
+Saklama süreleri: tanıma güvenlik kayıtları 90 gün; uygulama içi bildirimler 90 gün; günlük kota sayaçları ve tanıma adayları 30 gün; şikâyet kayıtları ve kart sorun bildirimleri 1 yıl; yorumlar, beğeniler, kaydedilenler, takipler, davet kayıtları, biyografi ve kart açıklamaları (etiketleriyle) sen silene ya da hesabını silene kadar; kaydettiğin bir kart silinirse kayıt da silinir; bildirim anahtarı çıkış yapana ya da hesabını silene kadar (uygulama silinirse Apple'ın bildirimiyle otomatik olarak). Paylaşımlara (fotoğraf, profil fotoğrafı, yorum ve açıklama) ait trafik bilgileri (zaman, hesap kimliği, IP adresi; yazının içeriği değil) 5651 sayılı Kanun gereği 1 yıl saklanır ve en geç 13 ay sonra otomatik olarak silinir. Trafik bilgileri bu yasal yükümlülük nedeniyle hesabın silinmesinden sonra da bu süre boyunca saklanır.
 
 Yasal bir yükümlülük ya da devam eden bir uyuşmazlık gerektirirse ilgili kayıtlar yalnızca bu süre boyunca saklanabilir.
 
@@ -102,4 +104,4 @@ Başvurularını [İLETİŞİM E-POSTASI] adresine iletebilirsin. Başvurun, nit
 
 ## 12. Değişiklikler
 
-Bu metin uygulamaya yeni özellikler eklendikçe güncellenir. Esaslı değişiklikler uygulama içinde duyurulur ve gerektiğinde yeniden onayın istenir. Son güncelleme: 19.11.2026.
+Bu metin uygulamaya yeni özellikler eklendikçe güncellenir. Esaslı değişiklikler uygulama içinde duyurulur ve gerektiğinde yeniden onayın istenir. Son güncelleme: 21.11.2026.
