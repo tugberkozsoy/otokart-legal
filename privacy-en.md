@@ -18,7 +18,7 @@ permalink: /privacy-en/
 
 This document is Otokart's privacy policy and the information notice required by Article 10 of the Turkish Personal Data Protection Law No. 6698 (KVKK). The data controller for personal data processed in the Otokart app is Mehmet Tuğberk Özsoy.
 
-Contact: [İLETİŞİM E-POSTASI]
+Contact: [iletisim@otokart.info](mailto:iletisim@otokart.info)
 
 ## 2. What we process
 
@@ -64,7 +64,7 @@ Sharing a card image or story image in other apps such as Instagram or WhatsApp 
 
 ## 6. Automated checks
 
-Photos to be shared, profile photos, comments and card captions are checked automatically with AI; comments and captions also pass a word filter. Content that does not pass is not published. These checks can make mistakes. If you believe your content was rejected unfairly, you can object by writing to [İLETİŞİM E-POSTASI]; your objection will be reviewed by a person.
+Photos to be shared, profile photos, comments and card captions are checked automatically with AI; comments and captions also pass a word filter. Content that does not pass is not published. These checks can make mistakes. If you believe your content was rejected unfairly, you can object by writing to [iletisim@otokart.info](mailto:iletisim@otokart.info); your objection will be reviewed by a person.
 
 ## 7. Who we share data with
 
@@ -96,13 +96,13 @@ Data is transmitted over encrypted connections (HTTPS); server access is restric
 
 ## 10. Age limit
 
-Otokart is not intended for anyone under 13, and we do not knowingly collect data from people under that age. Users under 18 should use the app with the knowledge of a parent or guardian. If you become aware that someone under 13 has created an account, notify [İLETİŞİM E-POSTASI] and the account will be deleted.
+Otokart is not intended for anyone under 13, and we do not knowingly collect data from people under that age. Users under 18 should use the app with the knowledge of a parent or guardian. If you become aware that someone under 13 has created an account, notify [iletisim@otokart.info](mailto:iletisim@otokart.info) and the account will be deleted.
 
 ## 11. Your rights
 
 Under KVKK Art. 11 you have the right to learn whether your personal data is processed and to request information about it; to learn the purpose of processing and whether it is used accordingly; to know the third parties in Türkiye or abroad to whom it is transferred; to request correction of incomplete or inaccurate data and, where conditions are met, deletion or destruction, and notification of these actions to recipients; to object to a result against you arising exclusively from automated analysis; and to claim compensation for damage caused by unlawful processing.
 
-You can send requests to [İLETİŞİM E-POSTASI]. Requests are concluded free of charge as soon as possible and within 30 days at the latest. We may need to verify your identity (for example, by asking for your username in the app). You can also delete your account and data from within the app. If your request is rejected or you find the answer insufficient, you may file a complaint with the Personal Data Protection Board.
+You can send requests to [iletisim@otokart.info](mailto:iletisim@otokart.info). Requests are concluded free of charge as soon as possible and within 30 days at the latest. We may need to verify your identity (for example, by asking for your username in the app). You can also delete your account and data from within the app. If your request is rejected or you find the answer insufficient, you may file a complaint with the Personal Data Protection Board.
 
 ## 12. Changes
 

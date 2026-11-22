@@ -46,7 +46,7 @@ Otokart may remove content it considers to violate the rules or the law without 
 
 If your content is hidden or removed under the rules, you are told in the app and by notification which rule it was. Reports and hiding decisions are first reviewed automatically with AI-assisted moderation. You can appeal the decision within 30 days from the notification in the app; a person reviews your appeal and, if it is upheld, your content is published again. Account suspensions are always decided by a person. Under KVKK Art. 11 you keep the right to object to an outcome against you that results solely from automated analysis.
 
-You can report content you believe is unlawful or violates personal rights through the report menu in the app or by writing to [İLETİŞİM E-POSTASI]. Reports are reviewed within 24 hours and unlawful content is removed.
+You can report content you believe is unlawful or violates personal rights through the report menu in the app or by writing to [iletisim@otokart.info](mailto:iletisim@otokart.info). Reports are reviewed within 24 hours and unlawful content is removed.
 
 ## 6. Accuracy of information
 
@@ -66,7 +66,7 @@ You may not reverse engineer, scrape, overload, circumvent security measures of,
 
 ## 10. Suspension and termination
 
-If you violate these terms or the Community Rules, your content may be removed, your access to community features and recognition may be restricted, or your account may be suspended or closed without prior notice. A suspended account's username is hidden and its photos are removed from publication. You can object to this decision by writing to [İLETİŞİM E-POSTASI]. You can delete your account at any time from within the app.
+If you violate these terms or the Community Rules, your content may be removed, your access to community features and recognition may be restricted, or your account may be suspended or closed without prior notice. A suspended account's username is hidden and its photos are removed from publication. You can object to this decision by writing to [iletisim@otokart.info](mailto:iletisim@otokart.info). You can delete your account at any time from within the app.
 
 ## 11. Warranty and liability
 
@@ -84,4 +84,4 @@ These terms may be updated; material changes are announced in the app and, where
 
 These terms are governed by the laws of the Republic of Türkiye. For consumer disputes, consumer arbitration committees and consumer courts have jurisdiction within statutory limits.
 
-Questions: [İLETİŞİM E-POSTASI]. Last updated: 21.11.2026.
+Questions: [iletisim@otokart.info](mailto:iletisim@otokart.info). Last updated: 21.11.2026.

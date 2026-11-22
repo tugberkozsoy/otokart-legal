@@ -50,7 +50,7 @@ If you see an inappropriate photo or user, report it from the ••• menu on 
 
 You can block a user from the same menu: you will not see each other's profiles or photos. You can unblock under Profile > Settings > Blocked users.
 
-If your photo, comment or bio is hidden under the rules, you are told why and can appeal from the notification in the app within 30 days. If your photo was unfairly rejected when sharing, you can write to [İLETİŞİM E-POSTASI].
+If your photo, comment or bio is hidden under the rules, you are told why and can appeal from the notification in the app within 30 days. If your photo was unfairly rejected when sharing, you can write to [iletisim@otokart.info](mailto:iletisim@otokart.info).
 
 ## 7. Your photos
 
@@ -60,4 +60,4 @@ You retain the rights to the photos you share. By sharing, you allow Otokart to 
 
 You must be at least 13 years old to use Otokart.
 
-Questions and reports: [İLETİŞİM E-POSTASI]. Last updated: 21.11.2026.
+Questions and reports: [iletisim@otokart.info](mailto:iletisim@otokart.info). Last updated: 21.11.2026.

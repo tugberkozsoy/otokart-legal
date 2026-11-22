@@ -48,7 +48,7 @@ Uygunsuz bir fotoğraf ya da kullanıcı gördüğünde fotoğrafın ya da profi
 
 Bir kullanıcıyı aynı menüden engelleyebilirsin: birbirinizin profilini ve fotoğraflarını görmezsiniz. Engeli Profil > Ayarlar > Engellenen kullanıcılar bölümünden kaldırabilirsin.
 
-Fotoğrafın, yorumun ya da biyografin kurallar nedeniyle gizlenirse sebebi sana bildirilir; uygulamadaki bildirimden 30 gün içinde itiraz edebilirsin. Fotoğrafın paylaşılırken haksız yere reddedildiyse [İLETİŞİM E-POSTASI] adresine yazabilirsin.
+Fotoğrafın, yorumun ya da biyografin kurallar nedeniyle gizlenirse sebebi sana bildirilir; uygulamadaki bildirimden 30 gün içinde itiraz edebilirsin. Fotoğrafın paylaşılırken haksız yere reddedildiyse [iletisim@otokart.info](mailto:iletisim@otokart.info) adresine yazabilirsin.
 
 ## 7. Fotoğrafların
 
@@ -58,4 +58,4 @@ Paylaştığın fotoğrafların hakları sende kalır. Paylaşarak Otokart'a bu 
 
 Otokart'ı kullanmak için en az 13 yaşında olmalısın.
 
-Soruların ve bildirimlerin için: [İLETİŞİM E-POSTASI]. Son güncelleme: 21.11.2026.
+Soruların ve bildirimlerin için: [iletisim@otokart.info](mailto:iletisim@otokart.info). Son güncelleme: 21.11.2026.

@@ -44,7 +44,7 @@ Otokart, kurallara ya da hukuka aykırı olduğunu değerlendirdiği içerikleri
 
 Bir içeriğin kurallar nedeniyle gizlenir ya da kaldırılırsa sana uygulama içinde ve bildirimle, hangi kural nedeniyle olduğu bildirilir. Şikâyetler ve gizleme kararları önce otomatik olarak, yapay zekâ destekli denetimle incelenir. Karara 30 gün içinde uygulamadaki bildirimden itiraz edebilirsin; itirazını bir kişi inceler ve haklı bulunursa içeriğin yeniden yayınlanır. Hesap askıya alma kararları her zaman bir kişi tarafından verilir. KVKK m. 11 uyarınca, yalnızca otomatik sistemlerle yapılan analiz sonucunda aleyhine bir sonuç çıkmasına itiraz etme hakkın saklıdır.
 
-Hukuka aykırı olduğunu ya da kişilik haklarını ihlal ettiğini düşündüğün bir içeriği uygulamadaki şikâyet menüsünden ya da [İLETİŞİM E-POSTASI] adresine yazarak bildirebilirsin. Bildirimler en geç 24 saat içinde incelenir ve hukuka aykırı içerik yayından kaldırılır.
+Hukuka aykırı olduğunu ya da kişilik haklarını ihlal ettiğini düşündüğün bir içeriği uygulamadaki şikâyet menüsünden ya da [iletisim@otokart.info](mailto:iletisim@otokart.info) adresine yazarak bildirebilirsin. Bildirimler en geç 24 saat içinde incelenir ve hukuka aykırı içerik yayından kaldırılır.
 
 ## 6. Bilgilerin doğruluğu
 
@@ -64,7 +64,7 @@ Uygulamayı ya da sunucuları tersine mühendislik, otomatik veri toplama, aşı
 
 ## 10. Askıya alma ve sona erme
 
-Bu koşulları ya da Topluluk Kuralları'nı ihlal edersen içeriklerin kaldırılabilir, topluluk özelliklerine ve tanımaya erişimin kısıtlanabilir ya da hesabın önceden bildirimde bulunulmadan askıya alınabilir veya kapatılabilir. Askıya alınan hesabın kullanıcı adı gizlenir ve fotoğrafları yayından kaldırılır. Bu karara [İLETİŞİM E-POSTASI] adresine yazarak itiraz edebilirsin. Sen de hesabını istediğin an uygulama içinden silebilirsin.
+Bu koşulları ya da Topluluk Kuralları'nı ihlal edersen içeriklerin kaldırılabilir, topluluk özelliklerine ve tanımaya erişimin kısıtlanabilir ya da hesabın önceden bildirimde bulunulmadan askıya alınabilir veya kapatılabilir. Askıya alınan hesabın kullanıcı adı gizlenir ve fotoğrafları yayından kaldırılır. Bu karara [iletisim@otokart.info](mailto:iletisim@otokart.info) adresine yazarak itiraz edebilirsin. Sen de hesabını istediğin an uygulama içinden silebilirsin.
 
 ## 11. Garanti ve sorumluluk
 
@@ -82,4 +82,4 @@ Bu koşullar güncellenebilir; esaslı değişiklikler uygulama içinde duyurulu
 
 Bu koşullara Türkiye Cumhuriyeti hukuku uygulanır. Tüketici uyuşmazlıklarında yasal sınırlar dahilinde tüketici hakem heyetleri ve tüketici mahkemeleri yetkilidir.
 
-Soruların için: [İLETİŞİM E-POSTASI]. Son güncelleme: 21.11.2026.
+Soruların için: [iletisim@otokart.info](mailto:iletisim@otokart.info). Son güncelleme: 21.11.2026.

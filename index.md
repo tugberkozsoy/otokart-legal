@@ -22,7 +22,7 @@ title: Otokart — Yasal Belgeler / Legal
 
 ## İletişim / Contact
 
-📧 [İLETİŞİM E-POSTASI]
+📧 [iletisim@otokart.info](mailto:iletisim@otokart.info)
 
 Veri sorumlusu / Data controller: Mehmet Tuğberk Özsoy
 

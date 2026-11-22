@@ -16,7 +16,7 @@ permalink: /privacy-tr/
 
 Bu metin, 6698 sayılı Kişisel Verilerin Korunması Kanunu (KVKK) m. 10 uyarınca hazırlanmış aydınlatma metni ve Otokart'ın gizlilik politikasıdır. Otokart uygulamasında işlenen kişisel verilerin veri sorumlusu Mehmet Tuğberk Özsoy'dur.
 
-İletişim: [İLETİŞİM E-POSTASI]
+İletişim: [iletisim@otokart.info](mailto:iletisim@otokart.info)
 
 ## 2. Hangi verileri işliyoruz
 
@@ -62,7 +62,7 @@ Kart görselini ya da hikâye görselini Instagram, WhatsApp gibi başka uygulam
 
 ## 6. Otomatik denetim
 
-Paylaşılacak fotoğraflar, profil fotoğrafları, yorumlar ve kart açıklamaları yapay zekâ ile otomatik olarak denetlenir; yorum ve açıklamalar ayrıca bir kelime filtresinden geçer. Denetimden geçmeyen içerik yayınlanmaz. Bu denetim hata yapabilir. İçeriğinin haksız yere reddedildiğini düşünürsen [İLETİŞİM E-POSTASI] adresine yazarak itiraz edebilirsin; itirazın bir insan tarafından incelenir.
+Paylaşılacak fotoğraflar, profil fotoğrafları, yorumlar ve kart açıklamaları yapay zekâ ile otomatik olarak denetlenir; yorum ve açıklamalar ayrıca bir kelime filtresinden geçer. Denetimden geçmeyen içerik yayınlanmaz. Bu denetim hata yapabilir. İçeriğinin haksız yere reddedildiğini düşünürsen [iletisim@otokart.info](mailto:iletisim@otokart.info) adresine yazarak itiraz edebilirsin; itirazın bir insan tarafından incelenir.
 
 ## 7. Kimlere aktarılır
 
@@ -94,13 +94,13 @@ Veriler şifreli bağlantı (HTTPS) üzerinden iletilir; sunucuya erişim yetkil
 
 ## 10. Yaş sınırı
 
-Otokart 13 yaşından küçükler için değildir ve bu yaşın altındaki kişilerden bilerek veri toplanmaz. 18 yaşından küçük kullanıcılar uygulamayı ebeveyn ya da vasilerinin bilgisi dahilinde kullanmalıdır. 13 yaşından küçük bir kişinin hesap açtığını fark edersen [İLETİŞİM E-POSTASI] adresine bildir; hesap silinir.
+Otokart 13 yaşından küçükler için değildir ve bu yaşın altındaki kişilerden bilerek veri toplanmaz. 18 yaşından küçük kullanıcılar uygulamayı ebeveyn ya da vasilerinin bilgisi dahilinde kullanmalıdır. 13 yaşından küçük bir kişinin hesap açtığını fark edersen [iletisim@otokart.info](mailto:iletisim@otokart.info) adresine bildir; hesap silinir.
 
 ## 11. Hakların
 
 KVKK m. 11 uyarınca; kişisel verilerinin işlenip işlenmediğini öğrenme, işlenmişse bilgi isteme, işlenme amacını ve amacına uygun kullanılıp kullanılmadığını öğrenme, yurt içinde ya da yurt dışında aktarıldığı üçüncü kişileri bilme, eksik ya da yanlış işlenmişse düzeltilmesini, şartları oluşmuşsa silinmesini ya da yok edilmesini ve bu işlemlerin aktarıldığı kişilere bildirilmesini isteme, münhasıran otomatik sistemlerle analiz edilmesi sonucu aleyhine bir sonuç çıkmasına itiraz etme ve kanuna aykırı işleme nedeniyle zarara uğrarsan zararının giderilmesini talep etme haklarına sahipsin.
 
-Başvurularını [İLETİŞİM E-POSTASI] adresine iletebilirsin. Başvurun, niteliğine göre en kısa sürede ve en geç 30 gün içinde ücretsiz olarak sonuçlandırılır. Başvurunun yanıtlanabilmesi için kimliğini doğrulamamız (örneğin uygulamadaki kullanıcı adını belirtmen) gerekebilir. Hesabını ve verilerini uygulama içinden de silebilirsin. Başvurun reddedilirse ya da yanıtı yetersiz bulursan Kişisel Verileri Koruma Kurulu'na şikâyette bulunabilirsin.
+Başvurularını [iletisim@otokart.info](mailto:iletisim@otokart.info) adresine iletebilirsin. Başvurun, niteliğine göre en kısa sürede ve en geç 30 gün içinde ücretsiz olarak sonuçlandırılır. Başvurunun yanıtlanabilmesi için kimliğini doğrulamamız (örneğin uygulamadaki kullanıcı adını belirtmen) gerekebilir. Hesabını ve verilerini uygulama içinden de silebilirsin. Başvurun reddedilirse ya da yanıtı yetersiz bulursan Kişisel Verileri Koruma Kurulu'na şikâyette bulunabilirsin.
 
 ## 12. Değişiklikler
 
