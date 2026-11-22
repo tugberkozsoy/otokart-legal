@@ -6,7 +6,7 @@ permalink: /privacy-tr/
 
 # Otokart — Gizlilik Politikası ve KVKK Aydınlatma Metni
 
-**Son güncelleme:** 21.11.2026
+**Son güncelleme:** 22.11.2026
 
 🇬🇧 English: [/otokart-legal/privacy-en/](/otokart-legal/privacy-en/)
 
@@ -68,7 +68,7 @@ Paylaşılacak fotoğraflar, profil fotoğrafları, yorumlar ve kart açıklamal
 
 Supabase: veritabanı, oturum ve dosya depolama altyapısı. Sunucular Almanya'da (Frankfurt, Avrupa Birliği) bulunur.
 
-Anthropic: yapay zekâ ile araç tanıma ve paylaşılacak fotoğrafların, yorumların, kart açıklamalarının ve biyografilerin denetimi. Hizmet Amerika Birleşik Devletleri'nde sunulur. Bu hizmete yalnızca bulanıklaştırılmış fotoğraflar ve denetlenecek yazının kendisi (ve kartın marka/model bilgisi) gönderilir; kullanıcı adın ya da Apple kimliğin gönderilmez.
+Anthropic: yapay zekâ ile araç tanıma; paylaşılacak fotoğrafların, yorumların, kart açıklamalarının ve biyografilerin denetimi; şikâyet edilen içeriklerin ve kart sorun bildirimlerinin otomatik incelenmesi. Hizmet Amerika Birleşik Devletleri'nde sunulur. Bu hizmete yalnızca bulanıklaştırılmış fotoğraflar, denetlenecek yazının kendisi (ve kartın marka/model bilgisi) ve kart bildirimindeki sorun açıklaman gönderilir. Kullanıcı adın yalnızca profilin şikâyet edildiğinde, kullanıcı adının kurallara uygunluğunu denetlemek için gönderilir; Apple kimliğin hiçbir zaman gönderilmez.
 
 Apple: Apple ile giriş ve anlık bildirimlerin iletilmesi (Apple Push Notification service).
 
@@ -104,4 +104,4 @@ Başvurularını [iletisim@otokart.info](mailto:iletisim@otokart.info) adresine 
 
 ## 12. Değişiklikler
 
-Bu metin uygulamaya yeni özellikler eklendikçe güncellenir. Esaslı değişiklikler uygulama içinde duyurulur ve gerektiğinde yeniden onayın istenir. Son güncelleme: 21.11.2026.
+Bu metin uygulamaya yeni özellikler eklendikçe güncellenir. Esaslı değişiklikler uygulama içinde duyurulur ve gerektiğinde yeniden onayın istenir. Son güncelleme: 22.11.2026.

@@ -6,7 +6,7 @@ permalink: /terms-en/
 
 # Otokart — Terms of Use
 
-**Last updated:** 21.11.2026
+**Last updated:** 22.11.2026
 
 *This is a translation. In case of any discrepancy, the Turkish version prevails.*
 
@@ -84,4 +84,4 @@ These terms may be updated; material changes are announced in the app and, where
 
 These terms are governed by the laws of the Republic of Türkiye. For consumer disputes, consumer arbitration committees and consumer courts have jurisdiction within statutory limits.
 
-Questions: [iletisim@otokart.info](mailto:iletisim@otokart.info). Last updated: 21.11.2026.
+Questions: [iletisim@otokart.info](mailto:iletisim@otokart.info). Last updated: 22.11.2026.

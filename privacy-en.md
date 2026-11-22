@@ -6,7 +6,7 @@ permalink: /privacy-en/
 
 # Otokart — Privacy Policy and KVKK Notice
 
-**Last updated:** 21.11.2026
+**Last updated:** 22.11.2026
 
 *This is a translation. In case of any discrepancy, the Turkish version prevails.*
 
@@ -70,7 +70,7 @@ Photos to be shared, profile photos, comments and card captions are checked auto
 
 Supabase: database, authentication and file storage infrastructure. Servers are located in Germany (Frankfurt, European Union).
 
-Anthropic: AI vehicle recognition and checks on photos, comments, card captions and bios to be published. The service is provided in the United States. Only blurred photos and the text being checked (with the card's make/model) are sent to this service; your username and Apple identifier are not.
+Anthropic: AI vehicle recognition; checks on photos, comments, card captions and bios to be published; automated review of reported content and card issue reports. The service is provided in the United States. Only blurred photos, the text being checked (with the card's make/model) and the description you write in a card issue report are sent to this service. Your username is sent only when your profile is reported, to check whether the username complies with the rules; your Apple identifier is never sent.
 
 Apple: Sign in with Apple and delivery of push notifications (Apple Push Notification service).
 
@@ -106,4 +106,4 @@ You can send requests to [iletisim@otokart.info](mailto:iletisim@otokart.info). 
 
 ## 12. Changes
 
-This document is updated as new features are added. Material changes are announced in the app and, where necessary, your consent is requested again. Last updated: 21.11.2026.
+This document is updated as new features are added. Material changes are announced in the app and, where necessary, your consent is requested again. Last updated: 22.11.2026.

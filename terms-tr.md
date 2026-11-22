@@ -6,7 +6,7 @@ permalink: /terms-tr/
 
 # Otokart — Kullanım Koşulları
 
-**Son güncelleme:** 21.11.2026
+**Son güncelleme:** 22.11.2026
 
 🇬🇧 English: [/otokart-legal/terms-en/](/otokart-legal/terms-en/)
 
@@ -82,4 +82,4 @@ Bu koşullar güncellenebilir; esaslı değişiklikler uygulama içinde duyurulu
 
 Bu koşullara Türkiye Cumhuriyeti hukuku uygulanır. Tüketici uyuşmazlıklarında yasal sınırlar dahilinde tüketici hakem heyetleri ve tüketici mahkemeleri yetkilidir.
 
-Soruların için: [iletisim@otokart.info](mailto:iletisim@otokart.info). Son güncelleme: 21.11.2026.
+Soruların için: [iletisim@otokart.info](mailto:iletisim@otokart.info). Son güncelleme: 22.11.2026.

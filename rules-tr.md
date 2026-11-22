@@ -6,7 +6,7 @@ permalink: /rules-tr/
 
 # Otokart — Topluluk Kuralları
 
-**Son güncelleme:** 21.11.2026
+**Son güncelleme:** 22.11.2026
 
 🇬🇧 English: [/otokart-legal/rules-en/](/otokart-legal/rules-en/)
 
@@ -58,4 +58,4 @@ Paylaştığın fotoğrafların hakları sende kalır. Paylaşarak Otokart'a bu 
 
 Otokart'ı kullanmak için en az 13 yaşında olmalısın.
 
-Soruların ve bildirimlerin için: [iletisim@otokart.info](mailto:iletisim@otokart.info). Son güncelleme: 21.11.2026.
+Soruların ve bildirimlerin için: [iletisim@otokart.info](mailto:iletisim@otokart.info). Son güncelleme: 22.11.2026.
